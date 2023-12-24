@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unrealprojects\\pcgcpp\\plugins\\pcgpack\\source\\pcgpack\\private\\pcgpack.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unrealprojects\\pcgcpp\\intermediate\\build\\win64\\x64\\pcgcppeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "c:\\unrealprojects\\pcgcpp\\plugins\\pcgpack\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\pcgpack\\definitions.pcgpack.h",
+            "c:\\unrealprojects\\pcgcpp\\plugins\\pcgpack\\source\\pcgpack\\public\\pcgpack.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
