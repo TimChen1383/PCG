@@ -25,4 +25,6 @@ Scatter arround the main target.
 ![Surrounding](https://github.com/TimChen1383/PCG/assets/37008451/f706984a-ff64-4245-aea2-e36b6ae541db)
 
 ### Hanging
-Hanging the instance mesh under th
+Hanging the instance mesh under base mesh.
+![hanging](https://github.com/TimChen1383/PCG/assets/37008451/dd1737b8-c738-4b29-b834-25b44a6af2f8)
+
