@@ -12,4 +12,7 @@ Scatter the points baseed on alpha image.
 Scatter based on the spline component. Offset sample points.
 ![Bricks](https://github.com/TimChen1383/PCG/assets/37008451/34c8a38d-b6af-497a-b4af-328d2a5fb583)
 
+### CustomVolume
+Scatter based on custom volume shape.
+![CustomVolume](https://github.com/TimChen1383/PCG/assets/37008451/3f08095c-88a8-4d25-8cc1-6c5f8424295a)
 
