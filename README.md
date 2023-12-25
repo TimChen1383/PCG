@@ -19,3 +19,7 @@ Scatter based on custom volume shape.
 ### Farm
 Scattering based on grid sample.
 ![farm](https://github.com/TimChen1383/PCG/assets/37008451/2c293ab9-73b6-431d-b845-55bba1fea8f6)
+
+### Surrounding
+Scatter arround the main target.
+![Surrounding](https://github.com/TimChen1383/PCG/assets/37008451/f706984a-ff64-4245-aea2-e36b6ae541db)
