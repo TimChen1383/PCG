@@ -16,3 +16,6 @@ Scatter based on the spline component. Offset sample points.
 Scatter based on custom volume shape.
 ![CustomVolume](https://github.com/TimChen1383/PCG/assets/37008451/3f08095c-88a8-4d25-8cc1-6c5f8424295a)
 
+### Farm
+Scattering based on grid sample.
+![farm](https://github.com/TimChen1383/PCG/assets/37008451/2c293ab9-73b6-431d-b845-55bba1fea8f6)
