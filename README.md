@@ -36,3 +36,12 @@ Scatter follow the custom spline. Self defined first and last static mesh.
 Pruning instanced points with spline.
 ![Path](https://github.com/TimChen1383/PCG/assets/37008451/ceef002b-7172-49e1-9689-f48c6657a0aa)
 
+### Slope
+Scatter on the slope surface.
+![Slope](https://github.com/TimChen1383/PCG/assets/37008451/84d13b09-b972-47e5-9dfa-ebe036b62e7c)
+
+
+
+
+
+
