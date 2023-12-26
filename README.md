@@ -28,3 +28,6 @@ Scatter arround the main target.
 Hanging the instance mesh under base mesh.
 ![hanging](https://github.com/TimChen1383/PCG/assets/37008451/dd1737b8-c738-4b29-b834-25b44a6af2f8)
 
+### Spline
+Scatter follow the custom spline. Self defined first and last static mesh.
+![Spline](https://github.com/TimChen1383/PCG/assets/37008451/6433ae0b-dac6-47ec-8dcf-2ed3ae1d5c35)
