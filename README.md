@@ -31,3 +31,8 @@ Hanging the instance mesh under base mesh.
 ### Spline
 Scatter follow the custom spline. Self defined first and last static mesh.
 ![Spline](https://github.com/TimChen1383/PCG/assets/37008451/6433ae0b-dac6-47ec-8dcf-2ed3ae1d5c35)
+
+### Path
+Pruning instanced points with spline.
+![Path](https://github.com/TimChen1383/PCG/assets/37008451/ceef002b-7172-49e1-9689-f48c6657a0aa)
+
