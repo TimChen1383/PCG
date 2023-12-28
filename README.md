@@ -40,6 +40,9 @@ Pruning instanced points with spline.
 Scatter on the slope surface.
 ![Slope](https://github.com/TimChen1383/PCG/assets/37008451/84d13b09-b972-47e5-9dfa-ebe036b62e7c)
 
+### Distance Scale
+Control object scale with distance value. Distance between Blueprint center and each object.
+![DistanceScale](https://github.com/TimChen1383/PCG/assets/37008451/176325e9-3c23-487b-bba9-2ea88bd8b824)
 
 
 
