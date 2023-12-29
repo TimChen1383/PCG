@@ -1,5 +1,8 @@
 {
 	"RemapUnityFiles": 
 	{
+		"Module.PCGPack.cpp.obj": [
+			"PCGPack.cpp.obj"
+		]
 	}
 }
