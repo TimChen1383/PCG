@@ -44,6 +44,11 @@ Scatter on the slope surface.
 Control object scale with distance value. Distance between Blueprint center and each object.
 ![DistanceScale](https://github.com/TimChen1383/PCG/assets/37008451/176325e9-3c23-487b-bba9-2ea88bd8b824)
 
+### Look At
+Make instanced mesh look at the direction of specific point.
+![LookAt](https://github.com/TimChen1383/PCG/assets/37008451/454e66d5-889d-4fad-91d5-33b4b0fa2f3b)
+
+
 
 
 
