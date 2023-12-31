@@ -48,6 +48,10 @@ Control object scale with distance value. Distance between Blueprint center and 
 Make instanced mesh look at the direction of specific point.
 ![LookAt](https://github.com/TimChen1383/PCG/assets/37008451/454e66d5-889d-4fad-91d5-33b4b0fa2f3b)
 
+### Building Wall
+Procedrual generated building wall based on spline.
+![BuildingWall](https://github.com/TimChen1383/PCG/assets/37008451/8b6cc42d-d186-4092-b746-a6a0ebd8d96e)
+
 
 
 
