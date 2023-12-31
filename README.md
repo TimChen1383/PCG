@@ -50,7 +50,8 @@ Make instanced mesh look at the direction of specific point.
 
 ### Building Wall
 Procedrual generated building wall based on spline.
-![BuildingWall](https://github.com/TimChen1383/PCG/assets/37008451/8b6cc42d-d186-4092-b746-a6a0ebd8d96e)
+![BuildingWall](https://github.com/TimChen1383/PCG/assets/37008451/a242befc-8460-4180-beee-a35d3453f46e)
+
 
 
 
