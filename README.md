@@ -63,7 +63,7 @@ Generate pattern using Phyllotaxis algorithm.
 - theta = n * angle
 - x = r * cos(theta)
 - y = r * sin(theta)
-![Phyllotaxis Pattern](https://github.com/TimChen1383/PCG/assets/37008451/1581acb2-6834-4782-a1db-812d14462d16)
+![Phyllotaxis Pattern](https://github.com/TimChen1383/PCG/assets/37008451/b2cfcd83-d80b-4fb6-9425-3ea08c92fff0)
 
 
 
