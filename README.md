@@ -55,6 +55,14 @@ Procedrual generated building wall based on spline.
 
 ### Phyllotaxis Pattern
 Generate pattern using Phyllotaxis algorithm.
+- num_points = 100
+- angle = 137.5
+- scale = 100
+- for n in range (num_points):
+- r = scale * sqrt(n)
+- theta = n * angle
+- x = r * cos(theta)
+- y = r * sin(theta)
 ![Phyllotaxis Pattern](https://github.com/TimChen1383/PCG/assets/37008451/1581acb2-6834-4782-a1db-812d14462d16)
 
 
