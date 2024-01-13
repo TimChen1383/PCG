@@ -54,6 +54,8 @@ Procedrual generated building wall based on spline.
 
 
 ### Phyllotaxis Pattern
+Generate pattern using Phyllotaxis algorithm.
+![Phyllotaxis Pattern](https://github.com/TimChen1383/PCG/assets/37008451/1581acb2-6834-4782-a1db-812d14462d16)
 
 
 
