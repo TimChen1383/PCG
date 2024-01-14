@@ -65,6 +65,12 @@ Generate pattern using Phyllotaxis algorithm.
 - y = r * sin(theta)
 ![Phyllotaxis Pattern](https://github.com/TimChen1383/PCG/assets/37008451/b2cfcd83-d80b-4fb6-9425-3ea08c92fff0)
 
+### Rotate Form
+Rotate instanced mesh based on ID and custom rotate angle.
+![RotateForm](https://github.com/TimChen1383/PCG/assets/37008451/716fb474-253d-4db9-a588-c100dcb567d4)
+
+
+
 
 
 
